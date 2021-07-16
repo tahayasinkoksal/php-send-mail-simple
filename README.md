@@ -1,4 +1,4 @@
-# php-send-mail-simple
+# Sending Simple Emails With PHP
 
 <h3>TR - Php İle Basit Düzeyde Mail Göndermek</h3>
 
