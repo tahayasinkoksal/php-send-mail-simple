@@ -1,5 +1,5 @@
 <?php
-
+/*
 // example usage
 $name = "Taha Yasin Köksal"; 
 $mailadd = "info@tahayasinkoksal.com.tr"; 
@@ -8,7 +8,7 @@ $message = "Hi bro..";
 $myName ="Taha Yasin Köksal";
 
 echo sendMail($name,$mailadd,$sub,$message,$myName); 
-
+*/
 
 ?>
 
